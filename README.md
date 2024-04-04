@@ -18,7 +18,7 @@ The project comprises two main packages:
    - It simulates the mobile robot in an empty world environment with a predefined setup.
 
 2. **Controller Package "my_controller":**
-   - This package includes the `trial_controller.py` node responsible for publishing topics to the mobile robot and controlling its movements.
+   - This package includes the `trial_controller_diff.py` node responsible for publishing topics to the mobile robot and controlling its movements.
 
 ## Setup Instructions
 
@@ -44,7 +44,7 @@ The project comprises two main packages:
 4. **Run Controller Node from the second package my_controller:**
    - Execute the following command:
      ```sh
-     ros2 run my_controller trial_controller
+     ros2 run my_controller trial_controller_diff
      ```
    - The terminal will prompt you to enter the start pose, desired goal pose, and velocity. Enter each value in float format and press enter after each.
 
