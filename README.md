@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is part of a Master's thesis conducted at the WZL department in the Robotic Systems Engineering program at RWTH Aachen University. The aim is to develop a controller using the Optitrack system for mobile robot navigation.
+This project is part of a Master's thesis conducted at the WZL department in the Robotic Systems Engineering program at RWTH Aachen University. The aim is to develop a controller for mobile robot navigation.
 
 ## System Requirements
 
@@ -36,11 +36,6 @@ The project comprises two main packages:
      ```sh
      ros2 launch my_bot launch_sim.launch.py
      ```
-
-   - B) For Kairos robot (simulation developed by Lucas Haug and Lukas Berg):
-   - Inside the .devcontainer file, Execute the following command:
-     ```sh
-     docker compose up --build
 
      ```
 
