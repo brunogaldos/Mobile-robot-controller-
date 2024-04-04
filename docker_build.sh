@@ -1,0 +1,1 @@
+docker build -t controller_docker-ros:main -f Dockerfile  .
