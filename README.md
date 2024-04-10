@@ -37,7 +37,6 @@ The project comprises two main packages:
      ros2 launch my_bot launch_sim.launch.py
      ```
 
-     ```
 
    - Gazebo will launch, displaying the mobile robot in the world environment. 
 
