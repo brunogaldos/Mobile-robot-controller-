@@ -14,4 +14,4 @@ source /colcon_ws/install/setup.bash
 #ros2 run my_controller evaluation_node_odom
 #ros2 run my_controller simplenode
 #ros2 run my_controller trial_controller_backup_original
-ros2 run my_controller trial_controller_backup
+ros2 run my_controller trial_controller_diff
