@@ -11,4 +11,5 @@ source /colcon_ws/install/setup.bash
 # Run additional commands
 
 ros2 launch my_bot launch_sim.launch.py &
+sleep 4
 ros2 run my_controller trial_controller_diff
