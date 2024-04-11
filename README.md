@@ -26,11 +26,19 @@ The project comprises two main packages:
 
    - Clone the repository into your directory.
 
-3. **Build and Source:**
-   - Build the docker image inside the workspace.
-   - Source the workspace.
+3. **Build and Launch:*
+   - Build the docker image inside the workspace with bash docker_build.sh
+   - Launch the simulation along with the controller for that inside the directory execute:
+     ```sh
+     cd docker_run
+     ``` 
 
-4. **Launch Simulation Package kairos:**
+     ``
+     ```sh
+     ./run_mocap.driver.sh
+     ```
+4. **Launch Simulation Package kairos locally:**
+   - We can also run the nodes and the launch file locally, by runnning the container and then executing the following:
    - A) For differential robot:
    - Execute the following command:
      ```sh
@@ -40,7 +48,7 @@ The project comprises two main packages:
 
    - Gazebo will launch, displaying the mobile robot in the world environment. 
 
-5. **Run Controller Node from the second package my_controller:**
+6. **Run Controller Node from the second package my_controller:**
    - Execute the following command:
      ```sh
      ros2 run my_controller trial_controller_diff
