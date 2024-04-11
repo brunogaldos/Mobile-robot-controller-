@@ -27,7 +27,7 @@ The project comprises two main packages:
    - Clone the repository into your directory.
 
 3. **Build and Launch:*
-   - Build the docker image inside the workspace with bash docker_build.sh
+   - Build the docker image
    - Launch the simulation along with the controller for that inside the directory execute:
      ```sh
      cd docker_run
