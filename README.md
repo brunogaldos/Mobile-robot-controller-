@@ -62,13 +62,5 @@ The project comprises two main packages:
 
 [Screencast from 14-01-24 16:45:44.webm](https://github.com/brunogaldos/Mobile-robot-controller-/assets/95909869/1dd44d8d-42cc-45f0-877f-6009fd75ea3d)
 
-## Further steps and development
-
-
-
-- Use the controller with optitrack instead of given poses, currently the controller has been tested in the real robot KairosAB
-</br></br>
-
----
 
 
