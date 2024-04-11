@@ -1,4 +1,4 @@
-# Mobile Robot Navigation with Optitrack System
+# Mobile Robot Navigation with motion tracking System
 
 ## Overview
 
