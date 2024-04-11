@@ -23,14 +23,14 @@ The project comprises two main packages:
 ## Setup Instructions
 
 1. **Clone Repositories:**
-   - Create a workspace and inside it, create a `src` directory.
-   - Clone each package into the `src` directory.
 
-2. **Build and Source:**
-   - Build the packages inside the workspace.
+   - Clone the repository into your directory.
+
+3. **Build and Source:**
+   - Build the docker image inside the workspace.
    - Source the workspace.
 
-3. **Launch Simulation Package kairos:**
+4. **Launch Simulation Package kairos:**
    - A) For differential robot:
    - Execute the following command:
      ```sh
@@ -40,7 +40,7 @@ The project comprises two main packages:
 
    - Gazebo will launch, displaying the mobile robot in the world environment. 
 
-4. **Run Controller Node from the second package my_controller:**
+5. **Run Controller Node from the second package my_controller:**
    - Execute the following command:
      ```sh
      ros2 run my_controller trial_controller_diff
