@@ -33,7 +33,6 @@ The project comprises two main packages:
      cd docker_run
      ``` 
 
-
      ```sh
      ./run_mocap.driver.sh
      ```
