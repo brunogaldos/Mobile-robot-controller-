@@ -6,7 +6,7 @@ This project is part of a Master's thesis conducted at the WZL department in the
 
 ## System Requirements
 
-- ROS Version: Humble
+- ROS2 Version: Humble
 - Gazebo Version: 11.11.0
 
 ## Project Structure
