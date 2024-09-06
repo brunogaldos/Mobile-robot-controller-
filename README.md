@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is part of a Master's thesis conducted at the WZL department in the Robotic Systems Engineering program at RWTH Aachen University. The aim is to develop a controller for mobile robot navigation.
+This project is part of a Master's thesis conducted at the WZL department in the Robotic Systems Engineering program at RWTH Aachen University. The aim is to develop a controller for mobile robot navigation using motion capture system. The following symulation is part of the pilot testing with controller capable of obstacle avoidace for mobile robot navigation.
 
 ## System Requirements
 
@@ -67,9 +67,7 @@ The project comprises two main packages:
 
 [Screencast from 31-08-24 09_41_44.webm](https://github.com/user-attachments/assets/35361dce-7986-44d0-8b3d-a966d67b6107)
 
-<video src="Screencast%20from%2022-01-24%2017-56-16-2.mp4" controls title="Title"></video>
 
-[Screencast from 14-01-24 16:45:44.webm](https://github.com/brunogaldos/Mobile-robot-controller-/assets/95909869/1dd44d8d-42cc-45f0-877f-6009fd75ea3d)
 
 
 
