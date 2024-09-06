@@ -1,4 +1,4 @@
-# Mobile Robot Navigation with motion tracking System
+# Mobile Robot Navigation with obstacle avoidance using motion tracking System
 
 ## Overview
 
